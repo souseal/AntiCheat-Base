@@ -1,5 +1,5 @@
 
 # AntiCheat Base
 
-A simple AntiCheat, which has a foundation for future improvements.
+A simple AntiCheat for Minecraft Java servers, which has a foundation for future improvements.
 
